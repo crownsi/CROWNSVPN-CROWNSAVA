@@ -73,6 +73,5 @@ vless://db778867-c8b2-4629-980c-0a3fc7c6ae2d@188.225.75.196:445?security=reality
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@stablefrost.com:443?security=tls&insecure=0&sni=stablefrost.com#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%A6%AC%20Hysteria%20%28%D0%A1%D0%A4%D0%9E-2%29
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@stablefrost.com:444?security=tls&insecure=0&sni=stablefrost.com#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%A6%AC%20Hysteria%20%28%D0%A1%D0%A4%D0%9E-2%29
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@dandydog.net:443?security=tls&insecure=0&sni=dandydog.net#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%90%B3%20Hysteria
-hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@dandydog.net:444?security=tls&insecure=0&sni=dandydog.net#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%90%B3%20Hysteria
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@78.159.246.83:443?security=tls&insecure=0&sni=kaoangeltrahnimenya.net#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%90%AD%20Hysteria
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@78.159.246.83:444?security=tls&insecure=0&sni=kaoangeltrahnimenya.net#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%90%AD%20Hysteria
