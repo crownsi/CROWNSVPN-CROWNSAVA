@@ -1,4 +1,4 @@
-JAPANSITE
+vless://3261bd58-4553-4fc5-a676-3e52256dd093@146.185.243.58:443?security=reality&encryption=none&pbk=uzTWIEhIX_o8BHZA0Ns7rrR7xESGVLYwMqI14V-yKS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=47a8ce19fed84ae4#АНТИГЛУШ-ПОДП
 
 
 
