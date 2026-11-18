@@ -46,6 +46,22 @@ hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@stablefrost.com:444?security=tl
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@dandydog.net:443?security=tls&insecure=0&sni=dandydog.net#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%90%B3%20Hysteria
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@78.159.246.83:443?security=tls&insecure=0&sni=kaoangeltrahnimenya.net#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%90%AD%20Hysteria
 hysteria2://db778867-c8b2-4629-980c-0a3fc7c6ae2d@78.159.246.83:444?security=tls&insecure=0&sni=kaoangeltrahnimenya.net#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%90%AD%20Hysteria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUPR AUTO
 vless://e3498a86-6e86-4660-9334-138b8603da79@tgl7ktsgwo.pop.framesedge.online:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=qq&sni=tgl7ktsgwo.pop.framesedge.online&pbk=dJP0r6bMdPqxWigmBzUN6LAONtI9U29C_UI8qB1OVmw&sid=20f98c6229e294d5#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20//%20%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5%20/%20exit
 vless://e3498a86-6e86-4660-9334-138b8603da79@wgv49e72ri.pop.framesedge.online:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=wgv49e72ri.pop.framesedge.online&pbk=6Uzpe4ZHOscQQnPHDiKx-UlZC8LkLI6O1YNee2EebWM&sid=3bc8f5b75e1cf06f#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20//%20%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5%20/%20exit-2
 vless://e3498a86-6e86-0001-9334-138b8603da79@87.242.87.178:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=2gd0a2x5nu.mail.ru&pbk=b5Kb8z7wr_v8O2zGdiD66mpQY0ObnD28EgNrcJyLCSk&sid=46dc7fcf38c12fff#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20//%20%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B5%20/%20exit-5
