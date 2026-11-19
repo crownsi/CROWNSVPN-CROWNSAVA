@@ -39,7 +39,7 @@ vless://06341a1d-8417-477d-a311-903cff010c51@186.246.11.106:443?path=%2Fapi%2Fvl
 
 
 FASTER
-vless://881579c5-6b88-4f98-88ca-471bdd570f5b@czek.oblachniy.ink:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=czek.oblachniy.ink&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&sid=f19e02a2fb573c18&spx=%2F#%F0%9F%87%A8%F0%9F%87%BF%20%D0%A7%D0%B5%D1%85%D0%B8%D1%8F%20(%D0%91%D0%AB%D0%A1%D0%A2%D0%A0%D0%AB%D0%99)%E2%9A%A1%EF%B8%8F
+
 vless://881579c5-6b88-4f98-88ca-471bdd570f5b@jijja.likontrop.wiki:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=jijja.likontrop.wiki&pbk=X6gBZNZSv_k1pyvLmQaDD4LsYk7jIA1SObRR5r-4Ynk&sid=fcfd621a2f36e3b6&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20#1%20(%D0%91%D0%AB%D0%A1%D0%A2%D0%A0%D0%AB%D0%99)%E2%9A%A1%EF%B8%8F
 vless://881579c5-6b88-4f98-88ca-471bdd570f5b@13elita37.vvzzkontaktezzvv.garden:2053?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=13elita37.vvzzkontaktezzvv.garden&pbk=372lhUM0WJWBCShaAu0u3JGvIqCWGvBRRXQyjsAHt0Q&sid=685ffe8ade96f0b2&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%20(%D0%91%D0%AB%D0%A1%D0%A2%D0%A0%D0%AB%D0%99)%E2%9A%A1%EF%B8%8F%20(Gemini%20%F0%9F%A4%96)
 vless://881579c5-6b88-4f98-88ca-471bdd570f5b@wwrtq.lerogrenta.shop:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=wwrtq.lerogrenta.shop&pbk=I_-Mb_q3_4-ZdzrzB6SKh-Zla1kKI4M_0OMjWDYXVxg&sid=13d8fbd7fd9e1ce8&spx=%2F#%F0%9F%87%B1%F0%9F%87%B9%20%D0%9B%D0%B8%D1%82%D0%B2%D0%B0%20#1%20(%D0%91%D0%AB%D0%A1%D0%A2%D0%A0%D0%AB%D0%99)%E2%9A%A1%EF%B8%8F
