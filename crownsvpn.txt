@@ -2,6 +2,7 @@ vless://49758716-0952-4685-92e1-12a7937b3d70@2.27.26.142:443?security=reality&en
 
 KEYND
 vless://e937af19-f582-41ec-a61d-557815dbc24b@canal.tinbirchjournal.net:443?security=reality&encryption=none&pbk=H-nMG0Qf-FNyiG0uo8RqT_Zth6KQEkKMS1-9zL4dTXU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=archive.tinbirchjournal.net&sid=b408cb3a5dd123fc#Netherlands(КристаллАвак)
+hysteria2://e937af19-f582-41ec-a61d-557815dbc24b@canal.tinbirchjournal.net:2053?sni=archive.tinbirchjournal.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands-HY2
 vless://e937af19-f582-41ec-a61d-557815dbc24b@fjord.tinbirchjournal.net:8443?security=reality&encryption=none&pbk=8--7zG6F6C3zjtoBo9xkL5kDWc2nPcuekMgDVLroaEs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=choir.tinbirchjournal.net&sid=114737299267be1c#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 vless://e937af19-f582-41ec-a61d-557815dbc24b@reef.tinbirchjournal.net:443?security=reality&encryption=none&pbk=C9PFOgS0nN-QdSTttDlAHv_cQT_ppewf94aRG7tWOAU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=letters.tinbirchjournal.net&sid=4f7511c598bd0a56#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%202
 
