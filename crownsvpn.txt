@@ -60,8 +60,6 @@ vless://06341a1d-8417-477d-a311-903cff010c51@186.246.11.106:443?path=%2Fapi%2Fvl
 
 FASTER
 vless://881579c5-6b88-4f98-88ca-471bdd570f5b@13elita37.vvzzkontaktezzvv.garden:2053?security=reality&encryption=none&pbk=372lhUM0WJWBCShaAu0u3JGvIqCWGvBRRXQyjsAHt0Q&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=13elita37.vvzzkontaktezzvv.garden&sid=685ffe8ade96f0b2#%F0%9F%87%AC%F0%9F%87%A7%20%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F%20%28%D0%91%D0%AB%D0%A1%D0%A2%D0%A0%D0%AB%D0%99%29%E2%9A%A1%EF%B8%8F%20%28Gemini%20%F0%9F%A4%96%29
-vless://881579c5-6b88-4f98-88ca-471bdd570f5b@turag.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=turag.vvzzkontaktezzvv.garden&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-
 
 
 
