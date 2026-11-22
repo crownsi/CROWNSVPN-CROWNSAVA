@@ -5,8 +5,6 @@ vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.11.142:443?encryption=none&f
 vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.12.146:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=se02.static-s3.org&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&sid=4ed692757445e6ab&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%C2%B7%20SE-02
 vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.11.142:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=se01.static-s3.org&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&sid=4ed692757445e6ab&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%C2%B7%20SE-01
 vless://49758716-0952-4685-92e1-12a7937b3d70@132.243.231.117:443?mode=auto&path=%2Fapi&security=reality&encryption=none&extra=%7Bxmux%3D%7BcMaxReuseTimes%3D64-128%2C%20maxConcurrency%3D16-32%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D600-900%2C%20hMaxReusableSecs%3D1800-3000%7D%2C%20noSSEHeader%3Dfalse%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%7D&pbk=NoLIbCssob6T9HvprXBoNoYsZyDN650OViyAMePwp1c&fp=firefox&spx=%2F&type=xhttp&sni=addons.mozilla.org&sid=54cd1667f48828f9#LTE_ШвецияN2
-trojan://aarJaxPn1QT74yVn5QerJd8-8XpGwdmb@31.77.138.33:443?mode=gun&security=tls&alpn=h2&fp=firefox&type=grpc&serviceName=ajv&sni=fl.global-cdn.org#ФинляндияТрoj
-
 
 
 
