@@ -1,10 +1,7 @@
 vless://49758716-0952-4685-92e1-12a7937b3d70@2.27.26.142:443?security=reality&encryption=none&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aq-1.global-cdn.org&sid=90f9d05bf95cb335#👑🆘📢CROWNSAVA TELEGRAM
 
 D3
-vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.11.142:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=se01.static-s3.org&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&sid=4ed692757445e6ab&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%E2%84%963
-vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.12.146:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=se02.static-s3.org&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&sid=4ed692757445e6ab&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%C2%B7%20SE-02
-vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.11.142:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=se01.static-s3.org&pbk=Ah92GPz7DePQhzVy1wMpB2i7I-ONOHmFI8tmgs9Bvzw&sid=4ed692757445e6ab&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%C2%B7%20SE-01
-
+vless://49758716-0952-4685-92e1-12a7937b3d70@187.54.7.165:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=ro.static-s3.org&pbk=b7LoNCPHVQSt6ZXHMDasUiZDQGaxem1_0JR832Fisyg&sid=1fc0086b06f0c819&spx=%2F#%F0%9F%87%B7%F0%9F%87%B4%20Romania#2
 
 
 
