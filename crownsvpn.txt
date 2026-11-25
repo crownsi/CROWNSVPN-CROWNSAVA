@@ -80,7 +80,7 @@ vless://881579c5-6b88-4f98-88ca-471bdd570f5b@13elita37.vvzzkontaktezzvv.garden:2
 
 PVNDORA RYMINIA
 vless://4194bc80-8eb0-4da5-9ea7-9a9351322704@95.133.167.45:443?security=reality&encryption=none&pbk=m_DgLbg3lGZae5ereAMUPt4bLz2BZpDa7_D1nd0JdCU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=fcbd525aed51d483#%F0%9F%87%B7%F0%9F%87%B4%20%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F
-
+vless://4194bc80-8eb0-4da5-9ea7-9a9351322704@144.31.109.233:443?security=reality&encryption=none&pbk=HzjnGiasoVGu7jDVuTvLQMVbLxi8ZVuHXgwUlV3YwiQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.quietmargin.fyi&sid=437f797da706fb2a#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 
 
 
