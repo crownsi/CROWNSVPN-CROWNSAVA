@@ -1,7 +1,6 @@
 vless://49758716-0952-4685-92e1-12a7937b3d70@2.27.26.142:443?security=reality&encryption=none&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aq-1.global-cdn.org&sid=90f9d05bf95cb335#👑🆘📢CROWNSAVA TELEGRAM
 
 highvpbt
-vless://b742bed9-fb67-4954-a760-579927a4aeef@188.225.37.214:28771?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=chrome&sni=mskk2.artemida.digital&pbk=xSMOwolkPn3goQGzh7K3BorZ8kvlHxxp9EyEAE3BB1s&sid=5e6ccddff2258650#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%D0%91%D0%95%D0%9B%D0%AB%D0%95_LTEbsc
 vless://b742bed9-fb67-4954-a760-579927a4aeef@79.98.37.189:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=cdn.v2.AssetSync&fp=edge&sni=dgeston2.artemida.digital&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&sid=6705f73a5a1e0aca#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%D0%91%D0%95%D0%9B%D0%AB%D0%95_LTEproxy2
 vless://b742bed9-fb67-4954-a760-579927a4aeef@188.225.34.4:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=chrome&sni=mskk2.artemida.digital&pbk=xSMOwolkPn3goQGzh7K3BorZ8kvlHxxp9EyEAE3BB1s&sid=5e6ccddff2258650#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%D0%91%D0%95%D0%9B%D0%AB%D0%95_LTEbsl
 vless://b742bed9-fb67-4954-a760-579927a4aeef@79.98.37.189:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=cdn.v2.AssetSync&fp=edge&sni=dgeston2.artemida.digital&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&sid=6705f73a5a1e0aca#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%20%D0%90%D0%92proxy-2
