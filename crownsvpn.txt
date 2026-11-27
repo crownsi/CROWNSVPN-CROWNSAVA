@@ -2,16 +2,6 @@ vless://49758716-0952-4685-92e1-12a7937b3d70@2.27.26.142:443?security=reality&en
 
 
 
-kent
-vless://b51de7b2-8e50-4a2c-80f4-27e683a21532@citadel.clubster.org.uk:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=citadel.clubster.org.uk&pbk=unupYdjhRKU7gZGRwveWiPGPzFuQtmsNFx6jE0iMqDU&sid=d5f15e301f9e2ef1#%F0%9F%87%AE%F0%9F%87%B1%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C%20%7C%20AI
-vless://b51de7b2-8e50-0004-80f4-27e683a21532@shop3.eidoslab.co.uk:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=shop3.eidoslab.co.uk&pbk=2h-a7Qvrslh4gdoIGoepsQQTVd4l8e0z5VRMZA8X6Qc&sid=20ad1fc8a5315cac#%F0%9F%87%B8%F0%9F%87%AC%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%202%20%7C%20AI
-vless://b51de7b2-8e50-4a2c-80f4-27e683a21532@138.249.18.115:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=sea.eidoslab.cc&pbk=xM0-JC5AFeHLg4S8Rs2oJefypi3A2FRM-y3x9PP4glI&sid=453c5a94abb895ea#%F0%9F%87%B1%F0%9F%87%BB%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%7C%20AI
-vless://b51de7b2-8e50-4a2c-80f4-27e683a21532@2.26.119.13:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=book.logosphere.cc&pbk=uOJYKXTG-6zN_37OPQxcRuz7srzHRggyKIh5OrKgnDE&sid=ee944fc17e90876a#%F0%9F%87%B7%F0%9F%87%B4%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F,%20%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0%20%D0%90%D0%92%D0%A2%D0%9E
-
-
-
-
-
 
 highvpbt
 vless://b742bed9-fb67-4954-a760-579927a4aeef@79.98.37.189:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=cdn.v2.AssetSync&fp=edge&sni=dgeston2.artemida.digital&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&sid=6705f73a5a1e0aca#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%D0%91%D0%95%D0%9B%D0%AB%D0%95_LTEproxy2
