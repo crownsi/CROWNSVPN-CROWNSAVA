@@ -1,26 +1,6 @@
 vless://49758716-0952-4685-92e1-12a7937b3d70@2.27.26.142:443?security=reality&encryption=none&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aq-1.global-cdn.org&sid=90f9d05bf95cb335#👑🆘📢CROWNSAVA TELEGRAM
 
 
-highvpbt
-vless://b742bed9-fb67-4954-a760-579927a4aeef@79.98.37.189:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=cdn.v2.AssetSync&fp=edge&sni=dgeston2.artemida.digital&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&sid=6705f73a5a1e0aca#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%D0%91%D0%95%D0%9B%D0%AB%D0%95_LTEproxy2
-vless://b742bed9-fb67-4954-a760-579927a4aeef@79.98.37.189:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=cdn.v2.AssetSync&fp=edge&sni=dgeston2.artemida.digital&pbk=CEPjmMZbtepvPjcZmM8sBeyw8-IoCF71lBR2msK_2zY&sid=6705f73a5a1e0aca#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%20%D0%90%D0%92proxy-2
-vless://b742bed9-fb67-a029-a760-579927a4aeef@48.102.216.239:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=zvn3.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%D0%90%D0%92cas-2
-vless://b742bed9-fb67-a029-a760-579927a4aeef@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=ios&sni=lkm8.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90%20%D0%90%D0%92cas-3
-vless://b742bed9-fb67-a029-a760-579927a4aeef@13.143.137.188:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=pxr4.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90cas-4
-vless://b742bed9-fb67-a029-a760-579927a4aeef@13.143.137.34:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=hdw9.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90cas-5
-vless://b742bed9-fb67-a029-a760-579927a4aeef@31.58.191.149:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=wrq5.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8C%90cas-6
-
-
-
-
-
-mskger
-vless://b742bed9-fb67-a029-a760-579927a4aeef@13.143.137.34:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=hdw9.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%A9%F0%9F%87%AA%E2%AD%90%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%E2%86%92%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20/%20prox2-4
-vless://b742bed9-fb67-a029-a760-579927a4aeef@31.58.191.149:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=wrq5.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%A9%F0%9F%87%AA%E2%AD%90%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%E2%86%92%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20/%20prox2-5
-vless://b742bed9-fb67-a029-a760-579927a4aeef@45.88.161.90:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=mskk2.artemida.digital&pbk=xSMOwolkPn3goQGzh7K3BorZ8kvlHxxp9EyEAE3BB1s&sid=5e6ccddff2258650#%F0%9F%87%A9%F0%9F%87%AA%E2%AD%90%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%E2%86%92%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20/%20proxy
-vless://b742bed9-fb67-a028-a760-579927a4aeef@45.88.161.90:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=mskk2.artemida.digital&pbk=xSMOwolkPn3goQGzh7K3BorZ8kvlHxxp9EyEAE3BB1s&sid=5e6ccddff2258650#%F0%9F%87%A9%F0%9F%87%AA%E2%AD%90%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%E2%86%92%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20/%20many
-vless://b742bed9-fb67-a028-a760-579927a4aeef@48.102.216.239:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=zvn3.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%A9%F0%9F%87%AA%E2%AD%90%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%E2%86%92%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20/%20many-2
-vless://b742bed9-fb67-a028-a760-579927a4aeef@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=edge&sni=lkm8.artemida.digital&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&sid=8d760489b7a2b8ac#%F0%9F%87%A9%F0%9F%87%AA%E2%AD%90%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%E2%86%92%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20/%20many-3
 
 
 
