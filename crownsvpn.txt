@@ -79,10 +79,7 @@ SUPR AUTO
 
 
 SPCE TUNNEL
-vless://06341a1d-8417-477d-a311-903cff010c51@186.246.11.106:443?security=reality&encryption=none&pbk=rsWf4l7DQq91i1PW7iMW3d3no5F_i0ZIR9KYYGozdUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=monitor.mozilla.org&sid=ec#%F0%9F%9F%A2%2001.%20%F0%9F%87%AA%F0%9F%87%BA%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%C2%B7%20%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9%20%28%D0%92%D1%81%D0%B5%20%D1%81%D0%B0%D0%B9%D1%82%D1%8B%20%20%20%D0%91%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%A0%D0%A4%20%C2%B7%20%D0%A1%D0%9F%D0%B1%29
-vless://06341a1d-8417-477d-a311-903cff010c51@186.246.11.106:443?security=reality&encryption=none&pbk=rsWf4l7DQq91i1PW7iMW3d3no5F_i0ZIR9KYYGozdUE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.mozilla.org&sid=ec#%F0%9F%87%B5%F0%9F%87%B1%2002.%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%201%20%C2%B7%20%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D0%B0%20%28%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%B0%D1%8F%20%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20%C2%B7%20%D0%A0%D0%B5%D0%BB%D0%B5%20%D0%A1%D0%9F%D0%B1%29
-vless://06341a1d-8417-477d-a311-903cff010c51@186.246.11.106:443?security=reality&encryption=none&pbk=rsWf4l7DQq91i1PW7iMW3d3no5F_i0ZIR9KYYGozdUE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=developer.mozilla.org&sid=ec#%F0%9F%87%B5%F0%9F%87%B1%2003.%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%202%20%C2%B7%20%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D0%B0%20%28Datagio%20%C2%B7%20%D0%9D%D0%B8%D0%B7%D0%BA%D0%B8%D0%B9%20%D0%BF%D0%B8%D0%BD%D0%B3%20%C2%B7%20%D0%A0%D0%B5%D0%BB%D0%B5%20%D0%A1%D0%9F%D0%B1%29
-vless://06341a1d-8417-477d-a311-903cff010c51@186.246.11.106:443?security=reality&encryption=none&pbk=MjAH4-Z-sBxyc9zfMIaiQ8wq_bBD51wjrZD8mi1ifCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=fa3c#%F0%9F%93%B1%2012.%20%D0%A0%D0%A4%20%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%A2%D1%83%D1%80%D0%B1%D0%BE%20%28%D0%9C%D0%A2%D0%A1%20%2F%20%D0%91%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD%20%2F%20%D0%A22%20%C2%B7%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%91%D0%A1%29
+
 
 
 
