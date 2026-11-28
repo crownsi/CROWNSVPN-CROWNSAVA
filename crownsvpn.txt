@@ -1,6 +1,4 @@
 vless://49758716-0952-4685-92e1-12a7937b3d70@2.27.26.142:443?security=reality&encryption=none&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=aq-1.global-cdn.org&sid=90f9d05bf95cb335#👑🆘📢CROWNSAVA TELEGRAM
-vless://481ce585-79be-4d81-8ce3-36f8ed2e2ee3@95.140.154.34:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&headerType=none&fp=firefox&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#%F0%9F%87%A9%F0%9F%87%AA%20%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D1%84%D1%83%D1%80%D1%82
-
 
 
 highvpbt
